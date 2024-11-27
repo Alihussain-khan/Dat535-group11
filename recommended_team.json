@@ -1,0 +1,163 @@
+[
+    {
+        "position": "lcm",
+        "player_id": 225193,
+        "short_name": "Merino",
+        "overall": 83,
+        "age": 26
+    },
+    {
+        "position": "sub",
+        "player_id": 218667,
+        "short_name": "Bernardo Silva",
+        "overall": 88,
+        "age": 27
+    },
+    {
+        "position": "lcb",
+        "player_id": 239301,
+        "short_name": "L. Mart\u00ednez",
+        "overall": 82,
+        "age": 24
+    },
+    {
+        "position": "cdm",
+        "player_id": 231866,
+        "short_name": "Rodri",
+        "overall": 87,
+        "age": 26
+    },
+    {
+        "position": "rcb",
+        "player_id": 205452,
+        "short_name": "A. R\u00fcdiger",
+        "overall": 87,
+        "age": 29
+    },
+    {
+        "position": "rcm",
+        "player_id": 223848,
+        "short_name": "S. Milinkovi\u0107-Savi\u0107",
+        "overall": 86,
+        "age": 27
+    },
+    {
+        "position": "lb",
+        "player_id": 234396,
+        "short_name": "A. Davies",
+        "overall": 84,
+        "age": 21
+    },
+    {
+        "position": "res",
+        "player_id": 210315,
+        "short_name": "Ra\u00fal De Tom\u00e1s",
+        "overall": 83,
+        "age": 27
+    },
+    {
+        "position": "rw",
+        "player_id": 237692,
+        "short_name": "P. Foden",
+        "overall": 85,
+        "age": 22
+    },
+    {
+        "position": "cf",
+        "player_id": 216547,
+        "short_name": "Rafa",
+        "overall": 82,
+        "age": 29
+    },
+    {
+        "position": "rb",
+        "player_id": 231281,
+        "short_name": "T. Alexander-Arnold",
+        "overall": 87,
+        "age": 23
+    },
+    {
+        "position": "lw",
+        "player_id": 200104,
+        "short_name": "H. Son",
+        "overall": 89,
+        "age": 29
+    },
+    {
+        "position": "st",
+        "player_id": 231747,
+        "short_name": "K. Mbapp\u00e9",
+        "overall": 91,
+        "age": 23
+    },
+    {
+        "position": "ls",
+        "player_id": 232411,
+        "short_name": "C. Nkunku",
+        "overall": 86,
+        "age": 24
+    },
+    {
+        "position": "rm",
+        "player_id": 246669,
+        "short_name": "B. Saka",
+        "overall": 82,
+        "age": 20
+    },
+    {
+        "position": "lm",
+        "player_id": 208418,
+        "short_name": "Y. Carrasco",
+        "overall": 85,
+        "age": 28
+    },
+    {
+        "position": "ldm",
+        "player_id": 209658,
+        "short_name": "L. Goretzka",
+        "overall": 87,
+        "age": 27
+    },
+    {
+        "position": "cb",
+        "player_id": 207865,
+        "short_name": "Marquinhos",
+        "overall": 88,
+        "age": 28
+    },
+    {
+        "position": "rwb",
+        "player_id": 238074,
+        "short_name": "R. James",
+        "overall": 84,
+        "age": 22
+    },
+    {
+        "position": "rdm",
+        "player_id": 212622,
+        "short_name": "J. Kimmich",
+        "overall": 89,
+        "age": 27
+    },
+    {
+        "position": "lwb",
+        "player_id": 252145,
+        "short_name": "Nuno Mendes",
+        "overall": 80,
+        "age": 20
+    },
+    {
+        "position": "ram",
+        "player_id": 230384,
+        "short_name": "Nailton Suzuki",
+        "overall": 81,
+        "age": 26
+    },
+    {
+        "position": "lf",
+        "player_id": 238067,
+        "short_name": "N. Zaniolo",
+        "overall": 81,
+        "age": 22
+    }
+]
